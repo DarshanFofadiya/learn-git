@@ -2,7 +2,7 @@
 """
 Created on Sat Dec 16 10:55:58 2017
 
-@author: darshan
+@author: darshan - modified in first branch
 """
 
 def calcVectors(data , y):
